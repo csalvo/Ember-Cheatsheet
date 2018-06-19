@@ -6,3 +6,4 @@
 * [Step-by-step tutorial](http://yoember.com/)
 * [Ember Forum](https://discuss.emberjs.com/)
 * [These helpful helpers](https://emberjs.com/api/ember/3.1/classes/@ember%2Fobject%2Fcomputed/methods/)
+* [Route Hook Loading Order](https://ember-twiddle.com/d65fd3522359c0c6299d7af16cbfd5e5)
