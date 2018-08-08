@@ -5,7 +5,7 @@
 * [Ember Twiddle Sample 2](https://ember-twiddle.com/43a70ae2143809e478ddccea4a1c9241?openFiles=routes.blog-posts.js%2Ctemplates.components.choose-topic.hbs&route=%2Fblog-posts)
 * [Step-by-step tutorial](http://yoember.com/)
 * [Ember Forum](https://discuss.emberjs.com/)
-* [These helpful helpers](https://emberjs.com/api/ember/3.1/classes/@ember%2Fobject%2Fcomputed/methods/)
+* [These helpful helpers](https://www.emberjs.com/api/ember/release/modules/@ember%2Fobject)
 * [Route Hook Loading Order](https://ember-twiddle.com/d65fd3522359c0c6299d7af16cbfd5e5)
 
 ### ES6 Things
