@@ -7,6 +7,7 @@
 * [Ember Forum](https://discuss.emberjs.com/)
 * [These helpful helpers](https://www.emberjs.com/api/ember/release/modules/@ember%2Fobject)
 * [Route Hook Loading Order](https://ember-twiddle.com/d65fd3522359c0c6299d7af16cbfd5e5)
+* [Translations](https://github.com/jamesarosen/ember-i18n)
 
 ### ES6 Things
 * [Destructuring Objects](https://wesbos.com/destructuring-objects/)
